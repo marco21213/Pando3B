@@ -1,0 +1,2 @@
+- Grafica tutta gestita da foglio di stile
+- Possibilità di impostare tema chiaro e tema scuro

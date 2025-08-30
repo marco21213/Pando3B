@@ -1,0 +1,30 @@
+GESTIONE DICHIARAZIONI D'INTENTO
+
+
+PAGINA INSERISCI
+- creare sistema per impostazione del percorso del database
+- aggiungere textbox RIFERIMENTO CMYK/RGB per futuro sviluppo software calcolo previsionale
+- allargare il box per coprire l'intera pagina
+- eliminare sfondo grigio
+
+PAGINA CREA CATEGORIA
+dobbiamo ripetere + o - le stesse operazioni della pagina inserisci
+
+PAGINA DOWNLOAD
+Sistemare la sezione seleziona periodo
+Sistemare la seziona aggiorna credenziali
+
+Prevedere l'ingrandimento automatico della finestra
+Sviluppo della sezione per il calcolo del colore (bozza già avviata su Claude - Crea Previsione Colore)
+
+Approfondire i fogli di stile di visualizzazione fattura. C'è la possibilità di estrarre di dati dei soli ddt ed inserirli in una sezione.
+Bisognerebbe approfondire inoltre la possibiltà di estrarre i dati della fattura in excel per una manipolazione più veloce.
+L'idea è quella di un confronto con un eventuale listino sfruttando i codici.
+
+COMPILA_WORD sistemare i collegamenti: modello_scheda_prodotto - convertipdf.py - inviafile.py (spostare nelle sottocartelle).
+Provvisoriamente sono nella root principale, ma per mettere tutto in ordine bisognerebbe spostarli nelle cartelle specifiche.
+
+
+
+
+
